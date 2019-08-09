@@ -14,6 +14,7 @@
                    </div>  
                    <div style="line-height:50px;float:left;">
                             <input type="file" name="file1" size="30"/>
+                            <!-- <input type="file" name="file1" size="30"/> -->
                    </div>  
 		   </form>
 </body>
